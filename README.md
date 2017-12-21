@@ -1,2 +1,2 @@
 # Hello_world
-Just new repository
+Just new repository from newby
